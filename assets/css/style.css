@@ -143,6 +143,7 @@ header p {
     letter-spacing: 0.38px;
     color: #FFFFFF;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .ReactTitle img {
